@@ -1,25 +1,19 @@
-### Hi there I'm Benjamin Shtainberg 👋
+<h1 align="center">Hi, I'm Benjamin Shtainberg 👋</h1>
+<h3 align="center">Full stack developer with experience 💼</h3>
 
-<!--
-**Beny16112000/Beny16112000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I am eagerly seeking new opportunities in **web development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I continue to learn and develop my skills in **Python and React**
 
-Benjamin Shtainberg - Full Stack Developer
-Hi there, I'm Benjamin - a Full Stack Developer based in Tel Aviv with 1.2 years of experience. I have worked on 14 Full Stack projects using various technologies including Python, React, JavaScript, Django, Jquery, Node.js, Express, HTML, CSS, Ajax, SQL, MongoDB, Flask, Postman, Socket.IO, and Git.
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 How to reach me: **benny132001@gmail.com | 050-944-3416*
+
+- ⚡ Fun fact: **I once coded an entire website while skydiving! (Not really, but I wish I could 😂 !)**
 
 Skills
-- Python
+Python
 React
 Node.js
 Django
@@ -29,39 +23,10 @@ PostgreSQL
 AWS
 Docker
 Heroku
-Experience
-Full Stack Developer - KalDrop (2021 - 2023)
-At KalDrop, I implemented server-side logic using Python and the Django framework, designed and developed intuitive user interfaces using ReactJS, integrated external APIs including eBay and PayPal, and wrote clean and efficient code that adhered to industry best practices and coding standards. I also collaborated with cross-functional teams to ensure timely delivery of high-quality software.
 
-Projects
-Here are a few projects that I have worked on:
 
-Expense & Income tracking - Node.js, Express, PostgreSQL, Javascript
-A financial management web application with an intuitive UI and ORM for database operations.
-
-MusicX - machine learning, Javascript, Node.js, Express, Spotify API
-A music recommendation system, playlist generator, song finder, and playlist sharing capabilities, all powered by the Spotify API.
-
-Freelance Project - Photography Website - Python, Django, PostgreSQL, Javascript
-Provided website management features for efficient client-side updates and maintenance.
-
-“Golt” - (like wolt), Full Stack Project - Python, Django, Mongodb, Javascript, 4 APIs
-Streamlines communication between the restaurant, customer, and delivery with a built-in API.
-
-Social Media - Back End Project - Python, Django Rest Framework, Postman
-Designed to handle the server-side processing of social media data and interactions, such as posts, comments, likes, and followers, groups.
-
-Flight Tracker Microservices App, 6 different APIs, Full stack Project - Flask, SQLAlchemy
-Integrates with 6 different flight APIs to provide comprehensive flight information and data.
-
-E-commerce & Marketplace Store, Full stack Project - Python, JavaScript, Django, SQL.
-Enables multiple sellers to sell their goods through a single platform, providing a diverse product offering to customers.
-
-Courses
-Python Full Stack Developer Course, John Bryce (2021)
-An 8-month-long intensive Full-Stack development training course where I gained distinguished knowledge in Python, Flask, NoSql, SQL, HTML, CSS, MongoDB, React, JavaScript, Git, PostgreSQL, and Django.
-Contact
-Feel free to reach out to me via email at benny132001@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/benjamin-shtainberg/.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 Thanks for checking out my profile!
 
