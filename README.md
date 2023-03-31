@@ -12,18 +12,6 @@
 
 - ⚡ Fun fact: **I once coded an entire website while skydiving! (Not really, but I wish I could 😂 !)**
 
-Skills
-Python
-React
-Node.js
-Django
-Flask
-MongoDB
-PostgreSQL
-AWS
-Docker
-Heroku
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
