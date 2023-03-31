@@ -53,6 +53,9 @@ Heroku
         
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beny16112000&show_icons=true&locale=en&layout=compact" alt="beny16112000" /></p>        
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beny16112000&" alt="beny16112000" /></p>
+
+        
 Thanks for checking out my profile!
 
 
