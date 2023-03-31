@@ -19,7 +19,7 @@ Benjamin Shtainberg - Full Stack Developer
 Hi there, I'm Benjamin - a Full Stack Developer based in Tel Aviv with 1.2 years of experience. I have worked on 14 Full Stack projects using various technologies including Python, React, JavaScript, Django, Jquery, Node.js, Express, HTML, CSS, Ajax, SQL, MongoDB, Flask, Postman, Socket.IO, and Git.
 
 Skills
-Python
+- Python
 React
 Node.js
 Django
