@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **benny132001@gmail.com | 050-944-3416*
 
-- ⚡ Fun fact: **I once coded an entire website while skydiving! (Not really, but I wish I could 😂 !)**
+- ⚡ Fun fact: **I once coded an entire website while skydiving! (Not really, but I wish I could 😂)**
 
 
 <h3 align="left">Languages and Tools:</h3>
